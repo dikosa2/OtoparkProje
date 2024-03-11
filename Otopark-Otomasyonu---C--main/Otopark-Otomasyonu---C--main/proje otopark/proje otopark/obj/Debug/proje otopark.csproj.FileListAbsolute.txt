@@ -1,0 +1,16 @@
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\bin\Debug\proje otopark.exe.config
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\bin\Debug\proje otopark.exe
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\bin\Debug\proje otopark.pdb
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje otopark.csproj.AssemblyReference.cache
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje_otopark.frmAnaSayfa.resources
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje_otopark.frmAraçOtoparkYerleri.resources
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje_otopark.Properties.Resources.resources
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje otopark.csproj.GenerateResource.cache
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje otopark.csproj.CoreCompileInputs.cache
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje otopark.exe
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje otopark.pdb
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje_otopark.frmOtoparKaydı.resources
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje_otopark.frmMarka.resources
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje_otopark.frmSeri.resources
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje_otopark.frmAraçOtoparkÇıkışı.resources
+C:\Users\s_erk\source\repos\proje otopark\proje otopark\obj\Debug\proje_otopark.frmSatis.resources
